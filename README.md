@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yogeshkashyapcuhp
-- 👀 I’m interested in Java Developer..
-- 🌱 I’m currently learning Java
+- 👀 I’m Power BI Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yogeshkashyapcuhp@gmail.com
 
